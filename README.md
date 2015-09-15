@@ -3,6 +3,8 @@ A quick turing machine parser for Penrose's The Emperor's New Mind
 
 
 In "The Emperor's New Mind" Sir Roger Penrose describes a kind of universal Turing Machine which accepts as its input descriptions of other turing machines, enocded in binary - this program seeks to emulate such a machine
+
+
 ---
 
 
